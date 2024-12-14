@@ -1,6 +1,17 @@
 # Next-Generation Security Operations Center (SOC) Automation
 
-This repository contains the implementation of a next-generation **Security Operations Center (SOC) automation framework**. This project leverages open-source technologies such as **Wazuh**, **Shuffle**, and **Azure** to address challenges in traditional SOCs, including alert overload, manual processes, and delayed responses. The proposed solution integrates **SIEM**, **SOAR**, and **Cyber Threat Intelligence (CTI)** capabilities to enable proactive threat detection and mitigation.
+Welcome to the SOC Automation Project! This repository contains the code and configurations for a next-generation Security Operations Center (SOC) framework designed to enhance cybersecurity operations through automation and integration.
+
+**Key Features**
+🌟 Tech Stack: Wazuh + Shuffle + Azure + Python
+🛡️ Advanced Threat Detection: Centralized monitoring with Wazuh agents
+🤖 Automation: Incident response playbooks with Shuffle workflows
+📈 Threat Intelligence Enrichment: MISP and OpenCTI integration
+⚡ Real-Time Alerts: Automated email notifications for critical events
+🌐 Scalable Architecture: Cloud deployment on Azure
+✅ Error Handling: Comprehensive logging and debugging mechanisms
+🔄 Collaborative Incident Management: Centralized workflows for efficient SOC operations
+⏳ And much more!
 
 ---
 
