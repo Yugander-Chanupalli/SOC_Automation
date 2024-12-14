@@ -59,7 +59,8 @@ The architecture integrates SIEM, SOAR, and CTI components to form a unified SOC
 3. **Azure**: Provides a cloud environment for scalable deployment.
 
 ### **Architecture Diagram**
-_**Insert system architecture diagram here (e.g., `docs/architecture.png`).**_
+![Soc architecture](https://github.com/user-attachments/assets/61ef470a-8004-45bc-be9d-ffe17aec6ddb)
+
 
 ---
 
@@ -161,11 +162,14 @@ siem-automation/
 1. [Wazuh Documentation](https://documentation.wazuh.com/)
 2. [Shuffle Documentation](https://shuffler.io/)
 3. [MISP Documentation](https://www.misp-project.org/)
+4. [VirusTotal](https://www.virustotal.com/gui/home/upload)
 
 ---
 
 ## **Contributors**
-- **Your Name** - Cybersecurity Automation Specialist
+- **Yugander Chanupalli** - Security Analyst | Penetration Tester
+- **Sujan Kumar** - Penetration Tester | Security Researcher
+- 
 
 ---
 
