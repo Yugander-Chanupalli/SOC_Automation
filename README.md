@@ -4,10 +4,10 @@
 This repository contains the code and configurations for a next-generation Security Operations Center (SOC) framework designed to enhance cybersecurity operations through automation and integration.
 
 ## Key Features
-- 🌟 **Tech Stack**: Wazuh + Shuffle + Azure + Python  
+- 🌟 **Tech Stack**: Wazuh + Shuffle + Azure
 - 🛡️ **Advanced Threat Detection**: Centralized monitoring with Wazuh agents  
 - 🤖 **Automation**: Incident response playbooks with Shuffle workflows  
-- 📈 **Threat Intelligence Enrichment**: MISP and OpenCTI integration  
+- 📈 **Threat Intelligence Enrichment**: MISP and OpenCTI integration
 - ⚡ **Real-Time Alerts**: Automated email notifications for critical events  
 - 🌐 **Scalable Architecture**: Cloud deployment on Azure  
 - ✅ **Error Handling**: Comprehensive logging and debugging mechanisms  
