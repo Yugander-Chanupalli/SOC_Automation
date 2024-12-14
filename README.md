@@ -71,7 +71,7 @@ The architecture integrates SIEM, SOAR, and CTI components to form a unified SOC
 3. **Azure**: Provides a cloud environment for scalable deployment.
 
 ### **Architecture Diagram**
-![SOC Architecture](images/Soc architecture.jpeg)
+![SOC Architecture](images/soc-architecture.jpeg)
 
 
 ---
