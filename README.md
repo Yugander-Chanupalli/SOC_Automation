@@ -135,7 +135,7 @@ The proposed solution demonstrated significant improvements in SOC operations:
    - CTI integration enriched alerts with actionable insights.
 
 ### **Example Alert Notification**
-![Email](https://github.com/user-attachments/assets/607ec394-6148-41d5-8f3a-6b2f591905e3)
+
 
 ---
 
@@ -148,7 +148,7 @@ The proposed solution demonstrated significant improvements in SOC operations:
 
 ## **File Structure**
 ```
-siem-automation/
+soc-automation/
 ├── README.md                # Project documentation
 ├── LICENSE                  # License information
 ├── .gitignore               # Files to ignore
@@ -164,9 +164,6 @@ siem-automation/
 │   ├── wazuh_rules.py       # Custom rules for Wazuh
 │   ├── shuffle_api.py       # Shuffle integrations
 ├── requirements.txt         # Python dependencies
-└── tests/                   # Test cases
-    ├── test_wazuh_rules.py  # Unit tests for Wazuh
-    └── test_shuffle_api.py  # Unit tests for Shuffle API
 ```
 
 ---
