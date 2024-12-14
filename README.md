@@ -117,7 +117,6 @@ _**Insert workflow diagram here (e.g., `docs/workflow.png`).**_
 - Critical alerts trigger email notifications, ensuring real-time updates to SOC analysts.
 
 ### **Implementation Diagram**
-![Shuffle](https://github.com/user-attachments/assets/f4f1793c-7d82-4934-99b1-48cf689f7752)
 
 
 ---
