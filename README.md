@@ -1,6 +1,6 @@
 # Next-Generation Security Operations Center (SOC) Automation
 
-# Welcome to the SOC Automation Project!  
+Welcome to the SOC Automation Project!  
 This repository contains the code and configurations for a next-generation Security Operations Center (SOC) framework designed to enhance cybersecurity operations through automation and integration.
 
 ## Key Features
