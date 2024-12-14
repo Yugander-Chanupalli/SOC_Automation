@@ -105,7 +105,8 @@ _**Insert workflow diagram here (e.g., `docs/workflow.png`).**_
 - Critical alerts trigger email notifications, ensuring real-time updates to SOC analysts.
 
 ### **Implementation Diagram**
-![Email](https://github.com/user-attachments/assets/607ec394-6148-41d5-8f3a-6b2f591905e3)
+![Shuffle](https://github.com/user-attachments/assets/f4f1793c-7d82-4934-99b1-48cf689f7752)
+
 
 ---
 
@@ -122,7 +123,7 @@ The proposed solution demonstrated significant improvements in SOC operations:
    - CTI integration enriched alerts with actionable insights.
 
 ### **Example Alert Notification**
-_**Insert screenshot of an email notification here (e.g., `docs/alert_notification.png`).**_
+![Email](https://github.com/user-attachments/assets/607ec394-6148-41d5-8f3a-6b2f591905e3)
 
 ---
 
