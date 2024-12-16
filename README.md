@@ -13,7 +13,7 @@ Automating Security Operations with Wazuh, Shuffle, and Azure for real-time thre
 ![SOC Architecture](images/soc-architecture.jpeg)
 
 ## Sample Workflow  
-![Shuffle Automation](./docs/Shuffle%20Automation.png)
+![Shuffle Automation](./docs/soc-workflow.jpeg)
 
 ## **Getting Started**  
 Follow these steps to replicate the SOC Automation project in your environment.
