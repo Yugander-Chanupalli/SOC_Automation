@@ -111,3 +111,26 @@ Make sure you have the following tools and platforms ready:
    - Logs are sent to the Wazuh Manager.  
    - Logs matching custom rules are routed to Shuffle.  
    - Notifications are sent via email and SMS.
+
+---
+
+## Future Scope  
+The SOC Automation framework can be further enhanced with:  
+- **AI/ML Integration**: Implementing machine learning models to predict and mitigate threats in real time.  
+- **Advanced Analytics**: Creating dashboards for better visualization of threat patterns and incident responses.  
+- **Multi-Cloud Support**: Extending deployment to hybrid and multi-cloud environments.  
+- **Improved Notification Mechanisms**: Adding support for in-app notifications or integration with platforms like Slack and Teams.  
+- **Behavioral Analysis**: Introducing anomaly detection to identify insider threats and unknown patterns.
+
+---
+
+## Conclusion  
+The **Next-Generation SOC Automation** project successfully demonstrates the power of integrating tools like **Wazuh**, **Shuffle**, and **VirusTotal** to automate and streamline SOC processes. Key accomplishments include:  
+- Centralized log collection and monitoring with Wazuh.  
+- Automated workflows with Shuffle to classify and enrich logs.  
+- Real-time notifications through email and SMS for critical incidents.  
+
+This project addresses the challenges faced by traditional SOCs, such as alert fatigue and delayed responses, and sets the foundation for scalable, proactive threat management in modern cybersecurity environments.
+
+> **Note**: For a clearer understanding of the implementation, refer to the [Images Repository](./images/) where detailed visuals are provided.
+
