@@ -138,3 +138,5 @@ This project addresses the challenges faced by traditional SOCs, such as alert f
 ---
 
 > **Note**: For a clearer understanding of the implementation, refer to the [Images Repository](./images/) where detailed visuals are provided.
+
+---
