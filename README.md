@@ -1,4 +1,4 @@
-# Next-Generation SOC Automation  
+## SOC Automation  
 Automating Security Operations with Wazuh, Shuffle, and Azure for real-time threat detection and response.
 
 ## Key Features  
@@ -125,7 +125,7 @@ The SOC Automation framework can be further enhanced with:
 ---
 
 ## Conclusion  
-The **Next-Generation SOC Automation** project successfully demonstrates the power of integrating tools like **Wazuh**, **Shuffle**, and **VirusTotal** to automate and streamline SOC processes. Key accomplishments include:  
+The **SOC Automation** project successfully demonstrates the power of integrating tools like **Wazuh**, **Shuffle**, and **VirusTotal** to automate and streamline SOC processes. Key accomplishments include:  
 - Centralized log collection and monitoring with Wazuh.  
 - Automated workflows with Shuffle to classify and enrich logs.  
 - Real-time notifications through email and SMS for critical incidents.  
