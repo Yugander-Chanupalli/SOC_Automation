@@ -10,7 +10,7 @@ Automating Security Operations with Wazuh, Shuffle, and Azure for real-time thre
 - 🌐 **Scalable Deployment** with Azure Cloud.  
 
 ## Architecture Overview  
-![SOC Architecture](./docs/soc-architecture.jpeg)
+![SOC Architecture](images/soc-architecture.jpeg)
 
 ## Sample Workflow  
 ![Shuffle Automation](./docs/Shuffle%20Automation.png)
