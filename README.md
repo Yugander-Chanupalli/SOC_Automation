@@ -9,7 +9,7 @@ Automating Security Operations with Wazuh, Shuffle, and Azure for real-time thre
 - ⚡ **Real-Time Notifications** for critical events.  
 - 🌐 **Scalable Deployment** with Azure Cloud.  
 
-## **Architecture Overview**  
+## Architecture Overview  
 The system architecture demonstrates the integration of Wazuh, Shuffle, and VirusTotal for automating SOC processes.  
 
 ![SOC Architecture](./images/soc-architecture.png)
@@ -20,7 +20,6 @@ The system architecture demonstrates the integration of Wazuh, Shuffle, and Viru
 The workflow illustrates the end-to-end process, from log generation to notification delivery.  
 
 ![SOC Workflow](./images/soc-workflow.jpeg)
-
 
 ---
 
