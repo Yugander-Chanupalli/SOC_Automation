@@ -1,6 +1,8 @@
 ## SOC Automation  
 Automating Security Operations with Wazuh, Shuffle, and Azure for real-time threat detection and response.
 
+---
+
 ## Key Features  
 - 🌟 **Tech Stack**: Wazuh + Shuffle + Azure  
 - 🛡️ **Centralized Threat Monitoring** with Wazuh agents.  
@@ -9,19 +11,21 @@ Automating Security Operations with Wazuh, Shuffle, and Azure for real-time thre
 - ⚡ **Real-Time Notifications** for critical events.  
 - 🌐 **Scalable Deployment** with Azure Cloud.  
 
+---
+
 ## Architecture Overview  
 The system architecture demonstrates the integration of Wazuh, Shuffle, and VirusTotal for automating SOC processes.  
 
 ![SOC Architecture](./images/soc-architecture.png)
 
-
+---
 
 ## **Workflow Diagram**  
 The workflow illustrates the end-to-end process, from log generation to notification delivery.  
 
 ![SOC Workflow](./images/soc-workflow.jpeg)
 
-
+---
 
 ### **1. Prerequisites**  
 Make sure you have the following tools and platforms ready:  
@@ -131,5 +135,6 @@ The **SOC Automation** project successfully demonstrates the power of integratin
 
 This project addresses the challenges faced by traditional SOCs, such as alert fatigue and delayed responses, and sets the foundation for scalable, proactive threat management in modern cybersecurity environments.
 
-> **Note**: For a clearer understanding of the implementation, refer to the [Images Repository](./images/) where detailed visuals are provided.
+---
 
+> **Note**: For a clearer understanding of the implementation, refer to the [Images Repository](./images/) where detailed visuals are provided.
