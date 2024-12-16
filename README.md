@@ -12,7 +12,7 @@ Automating Security Operations with Wazuh, Shuffle, and Azure for real-time thre
 ## **Architecture Overview**  
 The system architecture demonstrates the integration of Wazuh, Shuffle, and VirusTotal for automating SOC processes.  
 
-![SOC Architecture](./images/soc-architecture.png)
+![SOC Architecture](./images/soc-architecture (2).png)
 
 ---
 
