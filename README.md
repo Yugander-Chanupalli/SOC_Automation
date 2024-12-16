@@ -14,14 +14,14 @@ The system architecture demonstrates the integration of Wazuh, Shuffle, and Viru
 
 ![SOC Architecture](./images/soc-architecture.png)
 
----
+
 
 ## **Workflow Diagram**  
 The workflow illustrates the end-to-end process, from log generation to notification delivery.  
 
 ![SOC Workflow](./images/soc-workflow.jpeg)
 
----
+
 
 ### **1. Prerequisites**  
 Make sure you have the following tools and platforms ready:  
