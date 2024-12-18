@@ -140,4 +140,8 @@ This project addresses the challenges faced by traditional SOCs, such as alert f
 > **Note**: For a clearer understanding of the implementation, refer to the [Images Repository](./images/) where detailed visuals are provided.
 
 ---
-<h1 style="font-family: 'Poppins', sans-serif; font-size: 24px; color: #00698f;">Project Title</h1>
+<style>
+  body {
+    font-family: 'Poppins', sans-serif;
+  }
+</style>
